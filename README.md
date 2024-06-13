@@ -14,7 +14,11 @@
 
 ###
 
-<p align="left">A passionate software engineer from Egypt<br><br>- 🔭 I’m working as a software engineer (Mobile development) @ [Initium Solution](https://www.initium-me.com/)</p>
+<p align="left">
+  A passionate software engineer from Egypt<br><br>
+  - 🔭 I’m working as a software engineer (Mobile development) @ <a href="https://www.initium-me.com/">Initium Solution</a>
+</p>
+
 
 ###
 
